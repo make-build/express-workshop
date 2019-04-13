@@ -1,0 +1,23 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/make-build/express-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/make-build/express-workshop/issues"
+  },
+  "homepage": "https://github.com/make-build/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
